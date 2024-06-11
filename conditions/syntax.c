@@ -18,7 +18,21 @@ if (age >= 18) {
     print "not vote ";
 }
 
+if (cond 1) {
+    if (cond 2) {
+        code 
+    }
+    else {
+        code 
+    }
+    code 
+} else {
+    if () {
 
-if (age < 18) {
-    print "not vote ";
+    }
+    else {
+        if () {
+            
+        }
+    }
 }
