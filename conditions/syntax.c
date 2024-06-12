@@ -36,3 +36,26 @@ if (cond 1) {
         }
     }
 }
+
+if () {
+    
+} else if () {
+    code 
+    code 
+    code 
+} else if () {
+    
+} else {
+    code 
+}
+    
+
+if (c - 1) {
+    // code 
+} else if (c - 2) {
+    // code 
+} else if (c - 3) {
+    // code 
+} else {
+    // code 
+}
