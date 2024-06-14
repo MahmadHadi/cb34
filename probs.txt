@@ -4,3 +4,6 @@
 
 11 june 
     vowels - using nested if and else if, dont use ||
+
+14 june 
+    dry run - printHello-10.c -> input1 = 7, input2 = -3
