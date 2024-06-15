@@ -12,9 +12,11 @@ void main() {
     // printf("hello \n");
     // printf("hello \n");
 
+    int num = 5;
     int count = 1;
-    while (count <= 5) {
-        printf("hello \n");
+    while (count <= num) {
+        printf("hello ");
+        // printf("%d %d \n", count, num);
         count++; // 2, 3, 4, 5, ...
     }
 }
