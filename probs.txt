@@ -16,3 +16,7 @@
 
 19 june 
     4 7 10 13 16 ... 
+
+22 june 
+    prod of all digits 
+    
