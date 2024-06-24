@@ -20,3 +20,14 @@
 22 june 
     prod of all digits 
     
+24  june
+    check if a number is palindrome or not -> num == rnum
+        i/p -> 121 -> rnum 121 
+        i/p -> 16461 -> 16461
+        i/p -> 111 -> 111 
+        i/p -> 1 -> 1 
+    factorail of all digits 
+        i/p = 123 
+        o/p = 3! = 
+              2! =
+              1! =
