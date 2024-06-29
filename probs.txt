@@ -38,3 +38,10 @@
     3 3 3 3
     4 4 4 4 
         -> i <= 4, j <= 4 
+
+29 june     
+    a b c d 
+    a b c d 
+    a b c d 
+    a b c d 
+        -> i <= 4, j <= 4 
